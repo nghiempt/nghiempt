@@ -31,6 +31,6 @@
   <a href="https://www.facebook.com/nghiempt.dev" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267b2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nghiempt.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E95950?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/nghiempt_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Gmail-F6F7F9?style=for-the-badge&logo=gmail&logoColor=gray" target="_blank"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Gmail-F6F7F9?style=for-the-badge&logo=gmail&logoColor=EA4335" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nghiempt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

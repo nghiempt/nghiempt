@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nghiem Pham</h1>
-<h3 align="center">A passionate Data Science from Vietnam</h3>
+<h3 align="center">A passionate Data Scientist from Vietnam</h3>
 
 - 🔭 I’m currently working on [AlphaGroup](https://alphasoftware.vn/)
 

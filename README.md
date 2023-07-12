@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nghiem Pham</h1>
+<h1 align="center">Hi 👋, I'm Nghiem</h1>
 <h3 align="center">A passionate Data Scientist from Vietnam</h3>
 
 <!-- - 🔭 I’m currently working on [FPT Software](https://fptsoftware.com/) -->
 
-- 🔭 I’m Scientific Researcher about AI
+- 🔭 I’m Scientific Researcher about Natural Language Processing
 
 - 🌱 I’m currently learning **Artical Intelligence**
 - 👨‍💻 All of my projects are available at [https://github.com/nghiempt](https://github.com/nghiempt)

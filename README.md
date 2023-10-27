@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nghiem</h1>
 <h3 align="center">A passionate Data Scientist from Vietnam</h3>
 
-<!-- - 🔭 I’m currently working on [FPT Software](https://fptsoftware.com/) -->
+- 🔭 I’m currently working on [KDIGI](https://kdigi.vn/)
 
 - 🔭 I’m Research Student about Generative Learning
 
-- 🌱 I’m currently learning **Artical Intelligence**
+- 🌱 I’m currently learning **Artical Intelligence** at FPT University
 - 👨‍💻 All of my projects are available at [https://github.com/nghiempt](https://github.com/nghiempt)
 - 📫 How to reach me **nghiempt.dev@gmail.com**
 

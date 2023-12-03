@@ -1,12 +1,12 @@
-### Hi 👋, I'M Nghiem Thanh Pham
+### Hi 👋, I'm Nghiem Thanh Pham
 
-Open Source Contributor from VN->🇩🇪 
+Open Source Contributor from 🇻🇳 -> 🇩🇪 
 - 🔭 I’m currently working on the [Scientific Research](https://nghiempt.me)
 - ☕ I’m learning to work on Factiva library
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Factiva](https://nghiempt.me) and [Python](https://nghiempt.me).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a pet cat named David🐈‍
+- ⚡ Fun fact: I am interested about System Admin responsibilities
 
 ### Tech Stack
 

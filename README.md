@@ -1,33 +1,33 @@
-<h1 align="center">Hi 👋, I'm Nghiem</h1>
-<h3 align="center">A passionate Data Scientist from Vietnam</h3>
+### Hi 👋, I'M Nghiem Thanh Pham
 
-- 🔭 I’m currently working on [KDIGI](https://kdigi.vn/)
+Open Source Contributor from VN->🇩🇪 
+- 🔭 I’m currently working on the [Scientific Research](https://nghiempt.me)
+- ☕ I’m learning to work on Factiva library
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 💬 Ask me about [Factiva](https://nghiempt.me) and [Python](https://nghiempt.me).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I have a pet cat named David🐈‍
 
-- 🔭 I’m Research Student about Generative Learning
+### Tech Stack
 
-- 🌱 I’m currently learning **Artical Intelligence** at FPT University
-- 👨‍💻 All of my projects are available at [https://github.com/nghiempt](https://github.com/nghiempt)
-- 📫 How to reach me **nghiempt.dev@gmail.com**
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-<div align="left">
-  <a href="https://github.com/nghiempt">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nghiempt&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiempt&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+### Github Stats
+![nghiempt's github Stats](https://github-readme-stats.vercel.app/api?username=nghiempt&theme=material-palenight)
 
-<div align="left" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-</div><br>
+### Connect with me
 
-<div align="left">
-  <a href="https://www.facebook.com/nghiempt.dev" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267b2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nghiempt.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E95950?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/nghiempt_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Gmail-F6F7F9?style=for-the-badge&logo=gmail&logoColor=EA4335" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nghiempt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[<img align="left" alt="Scienticious | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="Scienticious | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
+[<img align="left" alt="Scienticious | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img align="left" alt="Scienticious | StackOverFlow" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg">][stackoverflow]
+
+[linkedin]: https://www.linkedin.com/in/
+[twitter]: https://twitter.com/
+[facebook]: https://www.facebook.com/
+[stackoverflow]: https://stackoverflow.com/

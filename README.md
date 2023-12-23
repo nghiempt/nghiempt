@@ -3,7 +3,7 @@
 Open Source Contributor from Vietnam
 - 🔭 I’m currently working on the [Scientific Research](https://nghiempt.me)
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [Website](https://nghiempt.me) and [Facebook](https://nghiempt.me).
+- 💬 Ask me about [Software Knowledge](https://nghiempt.me) and [Artificial Intelligence](https://nghiempt.me).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am interested about System Admin responsibilities
 

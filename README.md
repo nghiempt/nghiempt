@@ -13,5 +13,5 @@
 ###
 
 <div align="left">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=32" alt="typescript" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=48" alt="typescript" />
 </div>

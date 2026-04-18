@@ -8,7 +8,6 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nianpham.nianpham&"  />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"  />
 </div>
 
 ###
@@ -30,4 +29,13 @@
 &nbsp;&nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&color=%233b82f6&size=48" alt="ubuntu" />
 &nbsp;&nbsp;
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"  />
 </div>

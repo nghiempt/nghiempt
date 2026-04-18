@@ -13,9 +13,5 @@
 ###
 
 <div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-
-  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" alt="typescript" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=32" alt="typescript" />
 </div>

@@ -8,6 +8,7 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nianpham.nianpham&"  />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"  />
 </div>
 
 ###

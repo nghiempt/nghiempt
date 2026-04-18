@@ -13,12 +13,20 @@
 ###
 
 <div align="left">
-  <img  src="https://www.readmecodegen.com/api/social-icon?name=typescript&color=%233b82f6&size=48" alt="typescript" style="margin-right: 10px" />
-  &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&color=%233b82f6&size=48" alt="nodejs" />
-  &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&color=%233b82f6&size=48" alt="python" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=aws&color=%233b82f6&size=48" alt="aws" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&color=%233b82f6&size=48" alt="flutter" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&color=%233b82f6&size=48" alt="linux" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nextjs&color=%233b82f6&size=48" alt="nextjs"/>
+&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=nestjs&color=%233b82f6&size=48" alt="nestjs" />
+&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&color=%233b82f6&size=48" alt="fastapi"/>
+&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&color=%233b82f6&size=48" alt="postgresql" />
+&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&color=%233b82f6&size=48" alt="mongodb"/>
+&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=googlecloud&color=%233b82f6&size=48" alt="googlecloud" />
+&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=firebase&color=%233b82f6&size=48" alt="firebase"/>
+&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&color=%233b82f6&size=48" alt="ubuntu" />
+&nbsp;&nbsp;
 </div>

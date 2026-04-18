@@ -15,4 +15,8 @@
 <div align="left">
   <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&color=%233b82f6&size=48" alt="typescript" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&color=%233b82f6&size=48" alt="nodejs" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&color=%233b82f6&size=48" alt="python" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=aws&color=%233b82f6&size=48" alt="aws" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&color=%233b82f6&size=48" alt="flutter" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&color=%233b82f6&size=48" alt="linux" />
 </div>

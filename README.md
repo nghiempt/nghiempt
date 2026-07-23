@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">AI Engineer with expertise in LLM systems, multi-agent architectures, and multimodal AI, backed by 4 years of experience and 20+ publications. <br><br>Lead AI teams and delivered production-grade solutions for enterprise clients in finance, healthcare, and media.</p>
+<p align="left">Senior Fullstack AI Engineer with proven experience building production-grade AI systems, from Knowledge Graphs and Multi-Agent platforms to Voice AI and enterprise applications. Passionate about turning cutting-edge AI research into scalable, real-world products that deliver measurable business impact.</p>
 
 ###
 

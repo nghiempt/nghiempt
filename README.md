@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Senior Fullstack AI Engineer with proven experience building production-grade AI systems, from Knowledge Graphs and Multi-Agent platforms to Voice AI and enterprise applications. Passionate about turning cutting-edge AI research into scalable, real-world products that deliver measurable business impact.</p>
+<p align="left">Bridging frontier AI research with production-scale systems, transforming complex ideas into products trusted by enterprises and millions of users.</p>
 
 ###
 

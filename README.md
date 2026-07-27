@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bridging frontier AI research with production-scale systems, transforming complex ideas into products trusted by enterprises and millions of users.</p>
+<p align="left">Scientist. Engineer. Founder. Dreamer.</p>
 
 ###
 
